@@ -1,0 +1,24 @@
+{
+  "name": "car-parts-nepal",
+  "version": "1.0.0",
+  "description": "an ecommerce where user can buy the car parts product for free",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmeShishir/Ecommerce_Nepal_carParts.git"
+  },
+  "keywords": [
+    "Ecommerce",
+    "parts",
+    "Nepal"
+  ],
+  "author": "Shishir Bhandari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmeShishir/Ecommerce_Nepal_carParts/issues"
+  },
+  "homepage": "https://github.com/itsmeShishir/Ecommerce_Nepal_carParts#readme"
+}
